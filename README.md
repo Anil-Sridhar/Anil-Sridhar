@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anil S.
 - 👀 I’m interested in Data Analytics projects. DA projects really drives me in extracting the insights / meaningfull information present in the data.
 - 🌱 I’m currently learning BUSINESS INTELLIGENCE / DATA ANALYTICS specialization from 'International Institute of Information Technology, Bangalore university (IIITB).
-- 💞️ I’m looking to collaborate with DA experts share and improve my skills.
+- 💞️ I’m looking to collaborate with DA experts to share and improve my skills.
 - 📫 You can reach me through Anilsridharn@gmail.com
 
 <!---
